@@ -1,0 +1,7 @@
+2020-06-09 15:38:25 [main] INFO i.d.ciscoduo.CiscoduoApplication - Starting CiscoduoApplication on MiguelMacBookPro.lan with PID 14991 (/Users/miguelespiga/Documents/workspace/xcode/ciscoDuo/integration-bioglobal/target/classes started by miguelespiga in /Users/miguelespiga/Documents/workspace/xcode/ciscoDuo/integration-bioglobal)
+2020-06-09 15:38:25 [main] DEBUG i.d.ciscoduo.CiscoduoApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-06-09 15:38:25 [main] INFO i.d.ciscoduo.CiscoduoApplication - No active profile set, falling back to default profiles: default
+2020-06-09 15:38:29 [main] INFO i.d.ciscoduo.CiscoduoApplication - Started CiscoduoApplication in 4.878 seconds (JVM running for 5.874)
+2020-06-09 15:38:58 [http-nio-8080-exec-2] DEBUG i.d.c.c.CiscoDuoController - CiscoDuoController.requestAccess: Starting...
+2020-06-09 15:39:01 [http-nio-8080-exec-2] DEBUG i.d.c.c.CiscoDuoController - CiscoDuoController.requestAccess: Authentication processed successfully by CiscoDuo: username: miguelespigsa |  domain: dxnet.io | Response: {"code": 40002, "message": "Invalid request parameters", "message_detail": "username", "stat": "FAIL"}
+2020-06-09 15:39:01 [http-nio-8080-exec-2] DEBUG i.d.c.c.CiscoDuoController - CiscoDuoController.requestAccess: Authentication processed successfully by CiscoDuo: username: miguelespigsa |  domain: dxnet.io. Exiting...
